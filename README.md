@@ -8,5 +8,5 @@ Resultandando da importância de uma interface GUI, este projeto inicialmente ai
 Requerimentos necessários do Sistema para executar o programa:
 - Python 3.9
 - Sistema Operacional Windows, Mac, Linux (Qualquer Distribuição)
--
+- Biblioteca IPython (extenção Jupiter)
 -
